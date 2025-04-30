@@ -1,6 +1,6 @@
 # Hey, I'm Sneha Naraniwal 👋
 
-🔍 Coding is my Passion| Want to extent my capabilities to bring change**  
+🔍 Coding is my Passion| Want to extent my capabilities to bring change  
 
 I’m a **B.Tech student at UPES (2022-2026)** . My journey is about **curiosity, growth, and stepping out of comfort zones**. Right now, I’m diving into **DevOps, automation, and containerized applications**, L.  
 
@@ -20,7 +20,7 @@ I believe in freedom where one is truly express their feelings & explore the thi
 
 🔹 **Docker Cosmos**  
 
-🔹 **Build Pipelines using Jenkins*  
+🔹 **Build Pipelines using Jenkins**  
 
 🔹 **GitHub Actions for FastAPI Deployment**  
 

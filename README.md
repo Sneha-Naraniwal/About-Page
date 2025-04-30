@@ -37,7 +37,7 @@ I believe in freedom where one is truly express their feelings & explore the thi
 
 ## 📊 **GitHub Activity**  
 
-![Aaradhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=007Aaradhya&show_icons=true&theme=tokyonight)  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sneha-Naraniwal&custom_title=Sneha's%20March%202025%20Activity&bg_color=1a1b27&color=70a5fd&line=38bdae&point=70a5fd&area=true&hide_border=true)](https://github.com/Sneha-Naraniwal) 
 
 ---
 
